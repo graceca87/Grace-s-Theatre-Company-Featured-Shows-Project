@@ -74,15 +74,25 @@ body, html{
 #button{
     color: white;
     background-color: rgb(244, 182, 11);
+    margin-top: 20%;
+    padding: 10px;
 }
 hr{
     margin-right:15%;
 }
 #map{
-    width: 22vh;
+    width: 25vh;
     height: 20vh;
-    padding-bottom: 40px;
 }
 footer{
-    margin-bottom: 20px;
+    padding: 20px;
+    background-color: black;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    padding-left: 40px;
 }
