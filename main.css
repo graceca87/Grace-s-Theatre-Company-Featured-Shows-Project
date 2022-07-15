@@ -52,5 +52,37 @@ body, html{
     display: flex;
     flex-direction: column;
     justify-content: center;
-
+}
+.container{
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+}
+#scene-image{
+    height: 200px;
+    width: auto;
+}
+.show-name{
+    font-size:x-large
+}
+.address{
+    color: dimgray;
+}
+.price{
+    color: dimgray;
+}
+#button{
+    color: white;
+    background-color: rgb(244, 182, 11);
+}
+hr{
+    margin-right:15%;
+}
+#map{
+    width: 22vh;
+    height: 20vh;
+    padding-bottom: 40px;
+}
+footer{
+    margin-bottom: 20px;
 }
